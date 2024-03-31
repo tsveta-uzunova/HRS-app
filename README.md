@@ -1,1 +1,1 @@
-# HRS-app
+# Student Registr-app
